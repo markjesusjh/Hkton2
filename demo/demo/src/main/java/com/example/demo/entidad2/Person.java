@@ -2,7 +2,7 @@ package com.example.demo.entidad2;
 
 import com.example.demo.entidad1.Group;
 import jakarta.persistence.*;
-import java.util.List; // Importamos la clase List
+import java.util.List;
 import java.util.Set;
 
 @Entity
